@@ -64,6 +64,7 @@ def update_movie(movie_id: int, movie: dict):
             return movie
     return {"error": "Movie not found"}
 
+
 @app.delete("movies/{movies_id}")
 def delete_movie(movie_id: int):
     for i, u in enumerate(movies):
