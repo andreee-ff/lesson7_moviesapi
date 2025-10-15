@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Best Movie App</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <!-- Hero Section -->
+    <header class="hero">
+      <h1>My Best Movie App</h1>
+    </header>
+
+      <!-- Movie Cards Section -->
+    <main class="movie-container">
+      {% for movie in movies %}
+        <a
+          href="https://www.imdb.com/title/tt0111161/"
+          target="_blank"
+          class="movie-card"
+        >
+          <img
+            src="{{movie.poster}}"
+            alt="{{movie.title ~ ' Poster'}}"
+          />
+          <div class="movie-info">
+            <h2>{{movie.title}}</h2>
+            <p>Year: {{movie.year}}</p>
+            <p>Director: {{movie.director}}</p>
+            <p>⭐ Rating: {{movie.rating}}</p>
+          </div>
+        </a>
+      {% endfor %}
+
+
+
+    </main>
+  </body>
+</html>

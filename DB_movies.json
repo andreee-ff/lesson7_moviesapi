@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Avatar",
+        "year": 2009,
+        "director": "James Cameron",
+        "rating": 7.9,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "id": 2,
+        "title": "GladiatorXX",
+        "year": 2000,
+        "director": "Ridley Scott",
+        "rating": 8.5,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Paperman",
+        "year": 2012,
+        "director": "John Kahrs",
+        "rating": 8.2,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM4ODg0MzM0MV5BMl5BanBnXkFtZTcwNDY2MTc3Nw@@._V1_SX300.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Aladdin",
+        "year": 1992,
+        "director": "Ron Clements, John Musker",
+        "rating": 8.0,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Argo",
+        "year": 2012,
+        "director": "Ben Affleck",
+        "rating": 7.7,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2QyMGUyZTEtMjE4Yi00M2RiLTgwN2QtZDMxZDNiMTFkMTFjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Encanto",
+        "year": 2021,
+        "director": "Jared Bush, Byron Howard, Charise Castro Smith",
+        "rating": 7.2,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGEyNzk2M2MtNjBhZS00MzYwLWI0Y2YtYjc5ZWE2MjM0YWE5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Armageddon",
+        "year": 1998,
+        "director": "Michael Bay",
+        "rating": 6.7,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Volcano",
+        "year": 1997,
+        "director": "Mick Jackson",
+        "rating": 5.6,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzAxNWU2OTMtOTMwMi00NmQ3LThlNmEtNzY5NGYwNjg2ZWFmXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+]
